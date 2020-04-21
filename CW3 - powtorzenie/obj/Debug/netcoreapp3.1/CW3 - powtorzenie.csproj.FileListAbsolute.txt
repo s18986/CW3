@@ -1,0 +1,18 @@
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\bin\Debug\netcoreapp3.1\CW3 - powtorzenie.exe
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\bin\Debug\netcoreapp3.1\CW3 - powtorzenie.deps.json
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\bin\Debug\netcoreapp3.1\CW3 - powtorzenie.runtimeconfig.json
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\bin\Debug\netcoreapp3.1\CW3 - powtorzenie.runtimeconfig.dev.json
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\bin\Debug\netcoreapp3.1\CW3 - powtorzenie.dll
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\bin\Debug\netcoreapp3.1\CW3 - powtorzenie.pdb
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\obj\Debug\netcoreapp3.1\staticwebassets\CW3 - powtorzenie.StaticWebAssets.Manifest.cache
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\obj\Debug\netcoreapp3.1\staticwebassets\CW3 - powtorzenie.StaticWebAssets.xml
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\obj\Debug\netcoreapp3.1\CW3 - powtorzenie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\obj\Debug\netcoreapp3.1\CW3 - powtorzenie.AssemblyInfoInputs.cache
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\obj\Debug\netcoreapp3.1\CW3 - powtorzenie.AssemblyInfo.cs
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\obj\Debug\netcoreapp3.1\CW3 - powtorzenie.RazorTargetAssemblyInfo.cache
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\obj\Debug\netcoreapp3.1\CW3 - powtorzenie.dll
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\obj\Debug\netcoreapp3.1\CW3 - powtorzenie.pdb
+C:\Users\Paweł\Desktop\APBD\CW3 - powtorzenie\CW3 - powtorzenie\obj\Debug\netcoreapp3.1\CW3 - powtorzenie.csprojAssemblyReference.cache
