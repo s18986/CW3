@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Paweł\\Desktop\\APBD\\CW3 - powtorzenie\\CW3 - powtorzenie\\CW3 - powtorzenie.csproj": {}
+    "C:\\Users\\Paweł\\Desktop\\APBD\\CW3\\CW3 - powtorzenie\\CW3 - powtorzenie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Paweł\\Desktop\\APBD\\CW3 - powtorzenie\\CW3 - powtorzenie\\CW3 - powtorzenie.csproj": {
+    "C:\\Users\\Paweł\\Desktop\\APBD\\CW3\\CW3 - powtorzenie\\CW3 - powtorzenie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Paweł\\Desktop\\APBD\\CW3 - powtorzenie\\CW3 - powtorzenie\\CW3 - powtorzenie.csproj",
+        "projectUniqueName": "C:\\Users\\Paweł\\Desktop\\APBD\\CW3\\CW3 - powtorzenie\\CW3 - powtorzenie.csproj",
         "projectName": "CW3 - powtorzenie",
-        "projectPath": "C:\\Users\\Paweł\\Desktop\\APBD\\CW3 - powtorzenie\\CW3 - powtorzenie\\CW3 - powtorzenie.csproj",
+        "projectPath": "C:\\Users\\Paweł\\Desktop\\APBD\\CW3\\CW3 - powtorzenie\\CW3 - powtorzenie.csproj",
         "packagesPath": "C:\\Users\\Paweł\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Paweł\\Desktop\\APBD\\CW3 - powtorzenie\\CW3 - powtorzenie\\obj\\",
+        "outputPath": "C:\\Users\\Paweł\\Desktop\\APBD\\CW3\\CW3 - powtorzenie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Paweł\\AppData\\Roaming\\NuGet\\NuGet.Config",

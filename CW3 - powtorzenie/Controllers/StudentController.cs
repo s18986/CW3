@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CW3___powtorzenie.DAL;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +11,11 @@ namespace CW3___powtorzenie.Controllers
     [Route("api/students")]
     public class StudentController : ControllerBase
     {
+        private readonly IDbService _DbService;
+        public StudentController(IDbService dbService)
+        {
+            _DbService = dbService;
+        }
         [HttpGet("{id}")]
         public IActionResult getStudent(int id)
         {
@@ -28,9 +34,9 @@ namespace CW3___powtorzenie.Controllers
         }
 
         [HttpGet]
-        public string getStudents(string Orderby)
+        public IActionResult getStudents(string Orderby)
         {
-            return $"Kowalski, Malewski, Andrzejewski sortowanie={Orderby}";
+            return Ok(_DbService.GetStudents());
         }
         [HttpPost]
         public IActionResult CreateStudent(Student student)
